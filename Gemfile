@@ -13,6 +13,7 @@ ruby RUBY_VERSION
 # gem "uglifier"
 gem "jekyll"
 gem "mini_magick"
+gem "html-proofer"
 
 gem "github-pages", group: :jekyll_plugins
 
